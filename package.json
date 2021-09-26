@@ -1,0 +1,12 @@
+{
+  "name": "warewolf",
+  "version": "1.0.0",
+  "description": "Journal array",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": " "
+  },
+  "author": "James Harrison",
+  "license": "ISC"
+}
